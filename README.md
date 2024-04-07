@@ -1,9 +1,9 @@
-# CryptoInsight
-### Running the code 
-an example to run  CaesarCipher.c
+## Running the Code
+
+To run the code in this repository, follow these steps:
+
 ```bash
-gcc CaesarCipher.c -o caesar
-./caesar
-
-
-
+  gcc <filename>.c -o <executable_name>
+  ./<executable_name>
+```
+the <executable_name> maybe whatever you like.

@@ -7,4 +7,5 @@ To run the codes in this repository, follow these steps:
   ./<executable_name>
 ```
 the <executable_name> may be whatever you like.
-Some code segments could be written in a more efficient way, but I couldn't care less.
+
+  Some code segments could be written in a more efficient way, but I couldn't care less.
